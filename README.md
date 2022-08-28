@@ -54,3 +54,9 @@ git clone -b "项目名" “项目地址”
 
 ## Git 可以在你提交时自动地把回车（CR）和换行（LF）转换成换行（LF），而在检出代码时把换行（LF）转换成回车（CR）和换行（LF）：  
 git config --global core.autocrlf true
+
+## 查看本地已存放文件：  
+git ls-files
+
+## 查看本地未存放文件：  
+git status
