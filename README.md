@@ -1,4 +1,4 @@
-#git常用命令
+# git常用命令
 
 ## 查看用户名和邮箱地址：  
 git config user.name  
