@@ -60,3 +60,6 @@ git ls-files
 
 ## 查看本地未存放文件：  
 git status
+
+## 本地文件已删除，再提交一次这个文件，远程也会跟着删除，前提要记得住这个文件名  
+其他需要删除文件情况参考：https://blog.csdn.net/qq_42780289/article/details/98353792
